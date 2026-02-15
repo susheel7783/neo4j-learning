@@ -18,7 +18,7 @@ LIMIT 5
 --------------------downloaded neo4j desktop
 # create instance 
 # connect to instance
-# create database
+# select query option and create database
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/836d300f-c658-427a-a78e-ab9218e85c13" />
 
 
