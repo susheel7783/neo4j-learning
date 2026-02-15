@@ -45,6 +45,16 @@ MATCH (movie:Movie)
 MATCH (director:Person)-[:DIRECTED]->(movie)
 RETURN movie.title
 
+This code is a pattern match that looks for all movies in your database and identifies who directed them. It specifically asks for the titles of those movies.
+
+Here is a simple breakdown of the logic:
+
+MATCH (movie:Movie): Find every node that is labeled as a Movie.
+
+MATCH (director:Person)-[:DIRECTED]->(movie): For those movies found, look for a Person node that has a DIRECTED relationship pointing specifically to that movie.
+
+RETURN movie.title: Instead of showing the circles and lines (the nodes), just give me a list of the text titles of those movies.
+
 ---sql code
 SELECT m.title 
 FROM Movies m
