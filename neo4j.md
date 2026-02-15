@@ -1,5 +1,4 @@
-# add another col
-Add another col
+# browser overview
 
 MATCH (m:Movie)
 WHERE m.released > 2000
