@@ -19,7 +19,10 @@ LIMIT 5
 # create instance 
 # connect to instance
 # select query option and create database
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/836d300f-c658-427a-a78e-ab9218e85c13" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a0fcb772-830c-48f4-aced-18d61a055df0" />
+# click on relationship to see the graph relation and we can see the query written
+MATCH p=()-[]->() RETURN p LIMIT 25;         --for all relationship
+
 
 
 
