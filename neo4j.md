@@ -44,7 +44,7 @@ Acted or Directed
 MATCH (movie:Movie)
 MATCH (director:Person)-[:DIRECTED]->(movie)
 RETURN movie.title
-
+(Find me all the movies that have a director assigned to them, and just show me the titles of those movies)
 This code is a pattern match that looks for all movies in your database and identifies who directed them. It specifically asks for the titles of those movies.
 
 Here is a simple breakdown of the logic:
