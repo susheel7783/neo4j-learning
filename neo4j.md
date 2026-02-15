@@ -15,6 +15,15 @@ LIMIT 5
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6d1c62e7-a0e4-46bd-8517-d7abb288f0b5" />
 
 
+--------------------downloaded neo4j desktop
+# create instance 
+# connect to instance
+# create database
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/836d300f-c658-427a-a78e-ab9218e85c13" />
+
+
+
+
 
 
 
