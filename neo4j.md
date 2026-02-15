@@ -32,3 +32,4 @@ MATCH p=()-[]->() RETURN p LIMIT 25;         --for all relationship
 
 
 
+
