@@ -22,6 +22,17 @@ LIMIT 5
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a0fcb772-830c-48f4-aced-18d61a055df0" />
 # click on relationship to see the graph relation and we can see the query written
 MATCH p=()-[]->() RETURN p LIMIT 25;         --for all relationship
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/adbbe2ab-174a-4b5a-816f-7be4337a7c27" />
+------------
+MATCH (node1)-[rel]->(node2)
+RETURN node1,rel,node2 
+LIMIT 1
+-----------
+MATCH (node1)-[rel]->(node2): This searches for a pattern where a starting node (node1) has a directed relationship (rel) pointing to another node (node2).
+
+RETURN node1, rel, node2: This tells the database to output all three parts of that discovery—the two nodes and the link between them.
+
+LIMIT 1: This stops the search as soon as the very first match is found, preventing the database from scanning your entire graph.
 
 
 
