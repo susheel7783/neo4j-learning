@@ -61,7 +61,7 @@ FROM Movies m
 JOIN Directed d ON m.id = d.movie_id
 JOIN People p ON d.person_id = p.id;
 ---
-
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/bf641f7d-64f3-45f1-84b8-b0b9292ea228" />
 
 
 
