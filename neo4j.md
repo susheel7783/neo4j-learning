@@ -1,3 +1,5 @@
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/aa4ff6f6-3233-4706-88ae-068f4b641adf" />
+
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0ac33e47-a33d-4591-9862-b3920681b94d" /># browser overview 
 add another col
 
