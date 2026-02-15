@@ -7,5 +7,7 @@ RETURN m, "Hello" AS anotherColumn
 LIMIT 5
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a3bd517a-9f53-4ba4-a093-4ec32ed84f4c" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b3555053-346e-4ebd-b1b3-bb7f626134e0" />
+# to connect own database select blank sandbox write cretae query for table
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6279b76e-764e-4b0d-a860-0c52cd4909fa" />
 
 
