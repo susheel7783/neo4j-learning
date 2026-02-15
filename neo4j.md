@@ -63,6 +63,7 @@ JOIN People p ON d.person_id = p.id;
 ---
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/bf641f7d-64f3-45f1-84b8-b0b9292ea228" />
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1f871766-606c-41b9-a5a7-45f7210edd6f" />
 
 
 
