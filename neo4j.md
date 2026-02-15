@@ -1,4 +1,4 @@
-# browser overview 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0ac33e47-a33d-4591-9862-b3920681b94d" /># browser overview 
 add another col
 
 MATCH (m:Movie)
@@ -33,6 +33,30 @@ MATCH (node1)-[rel]->(node2): This searches for a pattern where a starting node 
 RETURN node1, rel, node2: This tells the database to output all three parts of that discovery—the two nodes and the link between them.
 
 LIMIT 1: This stops the search as soon as the very first match is found, preventing the database from scanning your entire graph.
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/84a98ff3-60f8-47d9-ad21-48bb46984c07" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/cbe8dda0-1d4d-4cb4-9cb7-57c5dea1b817" />
+Acted or Directed
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/89de0605-0e2a-4fab-b84d-10982f26d06c" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f9ed153a-8371-44ed-8d09-ce72acf192be" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/afc352d3-dc3c-437f-be8b-b904be09f8b0" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f634cc91-1526-4dac-8fb4-860f82321479" />
+
+MATCH (movie:Movie)
+MATCH (director:Person)-[:DIRECTED]->(movie)
+RETURN movie.title
+
+---sql code
+SELECT m.title 
+FROM Movies m
+JOIN Directed d ON m.id = d.movie_id
+JOIN People p ON d.person_id = p.id;
+---
+
+
+
+
+
+
 
 
 
