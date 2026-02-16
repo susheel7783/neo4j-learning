@@ -33,6 +33,10 @@ in Cypher, OPTIONAL MATCH is like the LEFT JOIN in SQL.
 
 It allows you to look for a pattern, but if that pattern doesn't exist, the query doesn't fail and doesn't remove the rest of the results. Instead, it just fills the missing parts with null.
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5ecda3b5-350e-47c6-8ad4-bf1b593e8f5e" />
+we can get tabular output as well (by using return statement with property)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ce490304-a772-49ad-afab-8e7b136c5e6c" />
+
 
 
 
