@@ -50,6 +50,17 @@ we can get tabular output as well (by using return statement with property)
 created Movie and relationship
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/cec341fe-b7f9-4237-8a4f-8a15cbe013a9" />
 
+for deleting s node first deleet its relationship
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e897e9de-186e-49f7-8e42-7da4d0e8ef60" />
+deleted a relationships and after deleting relationship you can delete node
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/97c764ff-1bb4-41bd-bf4a-07105e5caf8d" />
+by using detach delete we can delete any node without deleting the relationship
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e69d63b3-7eac-42f7-b553-3499d6a63a1f" />
+it deleted the node as well as relationships
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/cb79d364-532c-40de-a4c2-2fa16c549a50" />
+adding a director label here 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fa18aac3-a1dd-4d2d-b3e3-4e2ba431b923" />
+
 
 
 
