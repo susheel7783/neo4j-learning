@@ -42,6 +42,7 @@ we can get tabular output as well (by using return statement with property)
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5700a348-f6df-4c50-8ced-0b7def13ef88" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/092773e2-052b-40cc-b1de-18e0873ef9d0" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f32e9493-414e-4885-b5b7-b29e82c34d2f" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2d2c7230-3094-41af-8cba-65779e124698" />
 
 
 
