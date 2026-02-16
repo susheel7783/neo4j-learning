@@ -26,7 +26,12 @@ let see he didn't directed any movie it shows nothing
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3ab151d8-6b73-40a0-8cbb-7a6497c3dd87" />
 see optional match
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2eaa023a-0beb-4333-93f3-bbff94f08c9e" />
+MATCH: If a movie has no director, the movie is hidden from your list.
 
+OPTIONAL MATCH: If a movie has no director, the movie still shows up, but the director's name will just be empty (null).
+in Cypher, OPTIONAL MATCH is like the LEFT JOIN in SQL.
+
+It allows you to look for a pattern, but if that pattern doesn't exist, the query doesn't fail and doesn't remove the rest of the results. Instead, it just fills the missing parts with null.
 
 
 
