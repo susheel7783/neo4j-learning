@@ -43,6 +43,17 @@ we can get tabular output as well (by using return statement with property)
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/092773e2-052b-40cc-b1de-18e0873ef9d0" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f32e9493-414e-4885-b5b7-b29e82c34d2f" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2d2c7230-3094-41af-8cba-65779e124698" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e8edba05-0865-43e2-a8d4-acebbf7dd561" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/daf355d8-b799-4c26-a048-cd966f46f5e7" />
+## creatign a node
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ba0a5985-3c4a-4997-93ef-52445ef60837" />
+created Movie and relationship
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/cec341fe-b7f9-4237-8a4f-8a15cbe013a9" />
+
+
+
+
+
 
 
 
