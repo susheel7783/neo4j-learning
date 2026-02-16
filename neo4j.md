@@ -6,6 +6,9 @@
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/68983ffd-9a97-48ff-a2d8-4d79d973adc4" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5a57a444-696e-4e31-ba95-b08318a3eb3f" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/05766948-7509-4ead-9f38-6b1fe4396dfb" />
+just click on movie we will get all movie and see the code as well and we can select anything and get that nodes and if we select rrelationship option we will get relationship
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/594bd099-45c6-4b0f-9e2b-0d98af15864e" />
+
 
 
 
