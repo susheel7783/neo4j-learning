@@ -22,6 +22,11 @@ RETURN *
 MATCH (:Person {name: "Kevin Bacon"})-[:ACTED_IN]->(m:Movie)
 RETURN m.title
 ```
+let see he didn't directed any movie it shows nothing
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3ab151d8-6b73-40a0-8cbb-7a6497c3dd87" />
+see optional match
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2eaa023a-0beb-4333-93f3-bbff94f08c9e" />
+
 
 
 
