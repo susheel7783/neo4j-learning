@@ -14,14 +14,14 @@ This query returns both the Person node and all connected Movie nodes.
 ```cypher
 MATCH (p:Person {name: "Kevin Bacon"})-[:ACTED_IN]->(m:Movie) 
 RETURN *
-
+```
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a98e4572-4179-4ca9-a962-b5898e9a07d2" />
 ### If you only want to see the **titles** of the movies in a list (instead of the nodes/circles), you should suggest this variation:
 
 ```cypher
 MATCH (:Person {name: "Kevin Bacon"})-[:ACTED_IN]->(m:Movie)
 RETURN m.title
-
+```
 
 
 
