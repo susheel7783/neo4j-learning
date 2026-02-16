@@ -8,6 +8,11 @@
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/05766948-7509-4ead-9f38-6b1fe4396dfb" />
 # just click on movie we will get all movie and see the code as well and we can select anything and get that nodes and if we select rrelationship option we will get relationship
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/594bd099-45c6-4b0f-9e2b-0d98af15864e" />
+# for return all use *
+```bash
+MATCH (p:Person{name: "Kevin Bacon"})-[:ACTED_IN]->(m:Movie) RETURN *
+```
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a98e4572-4179-4ca9-a962-b5898e9a07d2" />
 
 
 
