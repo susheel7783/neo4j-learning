@@ -36,6 +36,15 @@ It allows you to look for a pattern, but if that pattern doesn't exist, the quer
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5ecda3b5-350e-47c6-8ad4-bf1b593e8f5e" />
 we can get tabular output as well (by using return statement with property)
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ce490304-a772-49ad-afab-8e7b136c5e6c" />
+## WITH processes or filters that data. filter only p or m or both see in the image
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4e6e717d-e70e-4700-a4a7-e411d6946611" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b4e30e0a-811f-48e0-a7c3-0bac915e3155" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5700a348-f6df-4c50-8ced-0b7def13ef88" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/092773e2-052b-40cc-b1de-18e0873ef9d0" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f32e9493-414e-4885-b5b7-b29e82c34d2f" />
+
+
+
 
 
 
