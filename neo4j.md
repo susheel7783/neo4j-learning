@@ -60,6 +60,21 @@ it deleted the node as well as relationships
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/cb79d364-532c-40de-a4c2-2fa16c549a50" />
 adding a director label here 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fa18aac3-a1dd-4d2d-b3e3-4e2ba431b923" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/141b1c72-c69d-4713-af8d-5f5aded11004" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/59589ef6-299f-4739-9d00-455d8a527b56" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a97c6d2b-32cf-43b9-9c79-dc262f547df5" />
+<img width="1940" height="994" alt="image" src="https://github.com/user-attachments/assets/290a3a50-e575-4e5c-98dc-c69f00042c99" />
+# unwind convert the list into object
+<img width="1940" height="994" alt="image" src="https://github.com/user-attachments/assets/63b26178-01eb-4770-927b-fdd3f59cf2de" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f3db1720-c67c-4719-ba79-5558af201563" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3d51bccc-8fc1-4739-95f5-7d971afa85f9" />
+it is running the subquery on the 10 records
+<img width="1940" height="994" alt="image" src="https://github.com/user-attachments/assets/f10be330-436f-4f6c-980e-133f96c6a414" />
+<img width="1940" height="994" alt="image" src="https://github.com/user-attachments/assets/87e46c99-4296-43fa-8688-ae0e5731d052" />
+<img width="1940" height="1260" alt="image" src="https://github.com/user-attachments/assets/5fde86e0-2a6d-4f67-9bea-8013465e23f9" />
+<img width="2452" height="1088" alt="image" src="https://github.com/user-attachments/assets/3c8c4cb0-d966-4c5a-9681-609e852bac9d" />
+
+<img width="2452" height="1260" alt="image" src="https://github.com/user-attachments/assets/657217c9-fb3f-4d99-9a01-b97e7677999e" />
 
 
 
