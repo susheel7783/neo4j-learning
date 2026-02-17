@@ -74,7 +74,7 @@ it is running the subquery on the 10 records
 <img width="1940" height="1260" alt="image" src="https://github.com/user-attachments/assets/5fde86e0-2a6d-4f67-9bea-8013465e23f9" />
 <img width="2452" height="1088" alt="image" src="https://github.com/user-attachments/assets/3c8c4cb0-d966-4c5a-9681-609e852bac9d" />
 
-<img width="2452" height="1260" alt="image" src="https://github.com/user-attachments/assets/657217c9-fb3f-4d99-9a01-b97e7677999e" />
+<img width="2452" height="1260" alt="image" src="https://github.com/user-attachments/assets/657217c9-fb3f-4d99-9a01-b97e7677999e" /> 
 
 
 
