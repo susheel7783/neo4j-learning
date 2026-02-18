@@ -75,7 +75,36 @@ it is running the subquery on the 10 records
 <img width="2452" height="1088" alt="image" src="https://github.com/user-attachments/assets/3c8c4cb0-d966-4c5a-9681-609e852bac9d" />
 
 <img width="2452" height="1260" alt="image" src="https://github.com/user-attachments/assets/657217c9-fb3f-4d99-9a01-b97e7677999e" /> 
+<img width="2452" height="1088" alt="image" src="https://github.com/user-attachments/assets/a95ff2fd-0b8e-411c-9ff6-5395066403b6" />
+<img width="2046" height="1214" alt="image" src="https://github.com/user-attachments/assets/0ede42fe-2cd5-4809-96ee-45176ebeb495" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7dd97a9f-edcd-4e38-b4d8-764dbc3ce724" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/41364117-bacf-48fc-be80-07853c9499e1" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/63f5c11b-840e-4502-b50a-94da0af7bc52" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/779f6775-eb53-41c4-9c42-8cc3ea5a5628" />
+<img width="2046" height="1214" alt="image" src="https://github.com/user-attachments/assets/e1c37a41-707d-43e2-9ef3-e651723136b6" />
+to get a particular person
+<img width="2046" height="1214" alt="image" src="https://github.com/user-attachments/assets/2a063f14-ab54-44ba-b582-d5a1bef98e43" />
+it will give all the records which contains wallace
 
+## relationship defined in a square bracket []
+<img width="2046" height="1214" alt="image" src="https://github.com/user-attachments/assets/368c4610-0c29-4bbb-99d7-d2c40872a626" />
+<img width="2046" height="1214" alt="image" src="https://github.com/user-attachments/assets/6bc94111-a4a8-4df6-a926-c81825151411" />
+<img width="2590" height="1138" alt="image" src="https://github.com/user-attachments/assets/adb826fe-0bd8-4d0a-b1d7-1a5d3665e9dc" />
+<img width="2590" height="1138" alt="image" src="https://github.com/user-attachments/assets/c370038e-9279-47a1-909b-9a3e74ae988b" />
+<img width="2590" height="1138" alt="image" src="https://github.com/user-attachments/assets/9f2e3036-8586-4915-a558-ba4e9f2d9602" />
+<img width="2590" height="1138" alt="image" src="https://github.com/user-attachments/assets/8f1172c5-22af-40e6-a757-47b5517fece8" />
+<img width="2590" height="1138" alt="image" src="https://github.com/user-attachments/assets/16205368-0c4d-41d3-9c37-b219e28ca034" />
+<img width="2590" height="1138" alt="image" src="https://github.com/user-attachments/assets/00b3b414-6211-47f0-8749-0c048cef0a7d" />
+
+<img width="2590" height="1138" alt="image" src="https://github.com/user-attachments/assets/1cab9ac4-6daf-440c-ba56-d25cb9f2112e" />
+
+<img width="2590" height="1138" alt="image" src="https://github.com/user-attachments/assets/c1a38beb-ea52-4f2d-a07f-64ffd4424da5" />
+<img width="2230" height="1404" alt="image" src="https://github.com/user-attachments/assets/c6810c6d-2b6b-4838-91e5-7f77f956da30" />
+<img width="2230" height="1164" alt="image" src="https://github.com/user-attachments/assets/07c37bd6-600f-47f7-82a9-dfcfb0655ab7" />
+
+<img width="2230" height="1404" alt="image" src="https://github.com/user-attachments/assets/a35f0540-7149-49fd-8272-f5dc6029b966" />
+<img width="2564" height="1078" alt="image" src="https://github.com/user-attachments/assets/8b070f05-e394-4155-acb5-4a97c1944812" />
+it will show all the nodes which have age <60
 
 
 
