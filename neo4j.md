@@ -109,9 +109,14 @@ It will show all the nodes that have an age < 60, see the query  (if all the nod
 
 any - if any nodes are true
 <img width="2632" height="1078" alt="image" src="https://github.com/user-attachments/assets/237b01d8-422e-4c5d-a794-432db260d9f6" />
+<img width="2632" height="1078" alt="image" src="https://github.com/user-attachments/assets/20861a03-e442-468f-8311-5cf637d44e4a" />
+<img width="2748" height="1078" alt="image" src="https://github.com/user-attachments/assets/2a541d5e-2207-4f55-9ec6-bd18c212b10f" />
+in this, we are checking whether this actor acted in any movie or not 
 
-
-
+<img width="2748" height="1078" alt="image" src="https://github.com/user-attachments/assets/37a8ef91-efb3-4069-80e4-9758cfebb609" />
+<img width="2748" height="1078" alt="image" src="https://github.com/user-attachments/assets/ace99c60-b8b5-4d90-830d-c1e0a9d8cb59" />
+<img width="2748" height="1078" alt="image" src="https://github.com/user-attachments/assets/e5444add-e3d0-4849-a058-981a4efee1ee" />
+<img width="2748" height="1078" alt="image" src="https://github.com/user-attachments/assets/d6843586-fad9-4bc1-b2fc-e056ae411ae8" />
 
 
 
