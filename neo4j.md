@@ -118,7 +118,18 @@ in this, we are checking whether this actor acted in any movie or not
 <img width="2748" height="1078" alt="image" src="https://github.com/user-attachments/assets/e5444add-e3d0-4849-a058-981a4efee1ee" />
 <img width="2748" height="1078" alt="image" src="https://github.com/user-attachments/assets/d6843586-fad9-4bc1-b2fc-e056ae411ae8" />
 
-
+<img width="1980" height="1392" alt="image" src="https://github.com/user-attachments/assets/e10afc9e-afb0-4080-8cac-df2dd7173fcf" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/58bb1d5b-b71a-4bf4-8ddc-9e4ac28b80b6" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/64a4135f-0663-4a11-afb6-ce84ffe2323d" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/d038254b-cbc0-4784-a489-15f6c8d5ed6f" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ac9e32f2-7c8a-44bd-a09a-71e5bd3d1a9d" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/68666331-a473-4310-af0e-4a8a8ba1f586" />
+and similarly last will give last element
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e0c62e77-dfcc-4018-8f23-04f5a08a8036" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f7b37da7-4df2-4db8-8867-fecc59c04411" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f5d01c4a-a966-4cd2-ac57-7f9dfb3c3135" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2a507cb8-5395-4a9b-aecd-1aea411f1ea8" />
+<img width="1980" height="1392" alt="image" src="https://github.com/user-attachments/assets/5a1af2b1-efec-4d31-85dc-7c23836216af" />
 
 
 
