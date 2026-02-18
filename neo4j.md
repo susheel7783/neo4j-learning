@@ -104,7 +104,11 @@ it will give all the records which contains wallace
 
 <img width="2230" height="1404" alt="image" src="https://github.com/user-attachments/assets/a35f0540-7149-49fd-8272-f5dc6029b966" />
 <img width="2564" height="1078" alt="image" src="https://github.com/user-attachments/assets/8b070f05-e394-4155-acb5-4a97c1944812" />
-it will show all the nodes which have age <60
+It will show all the nodes that have an age < 60, see the query  (if all the nodes satisfy true)
+<img width="2564" height="1078" alt="image" src="https://github.com/user-attachments/assets/7ebd14b7-83f2-4686-98dd-d9bf358ef233" />
+
+any - if any nodes are true
+<img width="2632" height="1078" alt="image" src="https://github.com/user-attachments/assets/237b01d8-422e-4c5d-a794-432db260d9f6" />
 
 
 
